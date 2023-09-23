@@ -1,0 +1,12 @@
+1,7,7-Trimethylbicycloheptan-2-one
+CC1C2CCC1CC2
+O=C1CC2CCC1C2C
+
+
+
+InChI=1S/C10H16O/c1-97-4-5-1086-7/h7H,4-6H2,1-3H3 YKey: DSSYKIVIOFKYAU-UHFFFAOYSA-N Y
+InChI=1/C10H16O/c1-97-4-5-1086-7/h7H,4-6H2,1-3H3Key: DSSYKIVIOFKYAU-UHFFFAOYAK
+175-177 °C, 448-450 K, 347-351 °F 
+204 °C, 477 K, 399 °F 
+कपुर सेतो अथवा पारदर्शी ठोस पदार्थ हो ।
+दम रोग केही महिनामा नै ठकि हुन्छ ।

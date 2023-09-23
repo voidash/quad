@@ -1,0 +1,2 @@
+Lua error in मोड्युल:Location_map at line 502: Unable to find the specified location map definition. Neither "Module:Location map/data/भारत पक्षिम बङ्गाल" nor "Template:Location map भारत पक्षिम बङ्गाल" exists.
+बर्धमान जिल्ला भारतीय राज्य पश्चिम बङ्गालको एउटा जिल्ला हो।

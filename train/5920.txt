@@ -1,0 +1,2 @@
+मार्च
+This template exists for people who use incorrect capitalization of the magic word {{CURRENTMONTHNAME}}. The magic word should be used in preference to this template.

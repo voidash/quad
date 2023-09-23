@@ -1,0 +1,16 @@
+What you have done is in your sandbox. Sandbox is for experiments. Especially to let you know. You can see how is an article is displayed when you write. It lets you know about the wiki tags.
+Now, you have to create a new article in name of मीरा बाई If it is not existing in the wiki.
+I suggest you to follow the following steps to create the article.
+First go to ne.wikipedia.org
+=> in the search box type मीरा बाई
+=> it will display तपाईं यस विकिमा "मीरा बाई" शीर्षकको लेख सृजना गर्न सक्नुहुन्छ। 
+=> Click on the red colour link.
+=> You will reach to the article creation page.
+=> Copy the following text and paste on the page.
+=> Again copy the text from your sandbox 
+=> Now save the article by clicking on संग्रह गर्ने।
+In this way your article will be completed.
+If you have to cite the source in certain line cite like this. मीरा बाईको जन्म सन् 2012मा भएको थियो।
+You can put relevant webpage address below the बाह्य सूत्र
+
+

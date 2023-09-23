@@ -1,0 +1,6 @@
+Lua error in मोड्युल:Location_map at line 419: No value was provided for longitude.
+बेगखोला नेपालको पश्चिमाञ्चल विकास क्षेत्र धवलागिरी अञ्चलको म्याग्दी जिल्लामा अवस्थित एक गाउँ विकास समिति हो।
+
+
+
+

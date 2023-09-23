@@ -1,0 +1,22 @@
+तपाईहरूसँग नेपाली विकिपीडियाको बारेमा कुनै प्रश्न छ भने यहाँ सोध्नुहोस् 
+
+कसरी लेख लेख्ने भन्ने जानकारीको लागि ! | पुराना प्रश्नहरू | नयाँ प्रयोगकर्ताहरू | स्वागतकर्ताहरू
+तपाईका प्रश्नहरू 12 घण्टा भित्र समाधान गरिने छन् । कृपया प्रश्नहरूमा 12 घण्टा पछि हेर्नुहोला ।
+1. म कसरी नेपालीमा लेख्न सक्छु ?
+"Ctl" र "M" साँचोहरूलाई थिचेर नेपाली लेखन सुरु गर्न सकिन्छ । माथि देखिने औजारहरू प्रयोग गरेर पनि नेपाली लेखन ब्यवस्था लागु गर्न सकिन्छ। कृपया तल दिइएको छित्र हेर्नुहोला ।
+
+If you want to see which keys you need to press to type in Nepali, visit https://or.wikipedia.org/wiki/Typing_help
+
+2. I want to contribute on Wikipedia, how can I do that?
+This is great! First you need to find an article. Press Ctl M to enable Nepali typing. On the top right, you will see the search bar. Type the name of the article you want to search. As you type the first few letters, it will show you the title of the article. if it exists. Click on it. 
+If it does not exist, a page will ask you to create the article. Click on it. 
+After the article page opens, find something which you can add in the article to improve it. Click on "Edit" near the section on top right side. It will open a box where you can edit. If you want to correct a mistake, find the word in the box, correct it. Write a brief summary of what changes you have made. "Save Preview to check what you have written. Hit "Save" to save the changes you have made in the article. 
+
+I see references on articles. What it is? What is it important? How do I give a reference to an article?
+How do I give reference?
+Then check if the article has something like this. if it is not there, then type the following text.==References=={{reflist}}
+Now save it.
+
+4. How to make a text bold or italics?First select the text. Click on the bold icon from the editing box.. If you want to make the text italics then click on the Italics button which is next to that.
+
+5. I want to make a new heading. How do I make one?If you want give a heading, add == before and after the title of the heading. e.g. If you want to start a new heading "History" then type as below:== History ==After typing the above press enter and write the content of the main heading.

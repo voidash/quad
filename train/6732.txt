@@ -1,0 +1,2 @@
+Lua error in मोड्युल:Location_map at line 390: Minutes can only be provided with DMS degrees for longitude.
+पहारपुरमा रहेका बौद्ध विहारका अवशेषहरूलाई 1985मा एक युनेस्को विश्व सम्पदा क्षेत्रमा जोडियो।

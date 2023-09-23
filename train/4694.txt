@@ -1,0 +1,6 @@
+रक्तदान भन्नाले कुनै मानिसले स्वेच्छाले आफ्नो रगत दान गर्नु लाई बुझाउँछ ।
+M: MYL
+cell/phys, csfs
+rbmg/mogr/tumr/hist, sysi/epon, btst
+drug, btst, trns
+

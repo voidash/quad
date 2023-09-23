@@ -1,0 +1,33 @@
+  a  {\displaystyle a\,} : त्वरण 
+  A  {\displaystyle A\,} : क्षेत्रफल 
+  E  {\displaystyle E\,} : ऊर्जा 
+  F  {\displaystyle F\,} : बल 
+  ∑ F  {\displaystyle \sum F} : नेट बल
+   f k   {\displaystyle f_{k}\,} : गतीय घर्णण बल 
+   f s   {\displaystyle f_{s}\,} : स्थैतिक घर्षण बल 
+  g  {\displaystyle g\,} : गुरुत्व जनित त्वरण 
+  J  {\displaystyle J\,} : आवेग 
+  K E  {\displaystyle KE\,} : गतिज ऊर्जा 
+  m  {\displaystyle m\,} : द्रव्यमान 
+   μ k   {\displaystyle \mu _{k}\,} : गतीय घर्षण गुणांक 
+   μ s   {\displaystyle \mu _{s}\,} : स्थैतिक घर्षण गुणांक 
+  N  {\displaystyle N\,} : कुनै तलका लम्बवत बल 
+  ν  {\displaystyle \nu \,} : आवृति 
+    p →   {\displaystyle {\vec {p}}} : संवेग 
+  P  {\displaystyle P\,} : शक्ति 
+  Q  {\displaystyle Q\,} : उष्मा  वा प्रवाहको दर 
+  r  {\displaystyle r\,} : त्रिज्या 
+    s →    {\displaystyle {\vec {s}}\,} : चली गयी दूरी 
+  T  {\displaystyle T\,} : आवर्त काल 
+  t  {\displaystyle t\,} : समय 
+  θ  {\displaystyle \theta \,} : कोण 
+   U g   {\displaystyle U_{g}\,} : गुरुत्वीय स्थितिज ऊर्जा 
+  V  {\displaystyle V\,} : आयतन 
+   V d f   {\displaystyle V_{df}\,} : विस्थापित द्रवको आयतन
+   v f   {\displaystyle v_{f}\,} : अन्तिम वेग
+   v i   {\displaystyle v_{i}\,} : आरम्भिक वेग
+   x f   {\displaystyle x_{f}\,} : अन्तिम स्थिति 
+   x i   {\displaystyle x_{i}\,} : आरम्भिक स्थिति
+शुद्धगतिकीका सूत्र कुनै पिण्डको स्थिति, विस्थापन, वेग, एवं त्वरणका बीच सम्बन्ध दर्शाउँदछन्। यिनमा पिण्डका द्रव्यमान अथवा पिण्डमा लागे भएका कुनै बलको कुनै चर्चा हुँदैन।
+शुद्धगतिकीको भान्ति बलगतिकी पनि पिण्डको गतिसित सम्बन्धित छ किन्तु यसमा पिण्डका द्रव्यमान र त्यसमा लागे भएका बलहरुका आधारमा बस्तुका त्वरणको गणना गरेर त्यसको गतिको अध्ययन गरिन्छ।
+जब कुनै वस्तु कुनै वृत्तीय पथमा एकसमान चालले गति लिन्छ त यसलाई एकसमान वृत्तीय गति भन्दछन्।यहाँ,   a c   {\displaystyle a_{c}},   F c   {\displaystyle F_{c}}, क्रमश: अभिकेन्द्रीय त्वरण र अभिकेन्द्रीय बलका प्रतीक छन्।

@@ -1,0 +1,2 @@
+{{Infobox internationalfootball competition| tourney_name  = युइएफए युरोपा लिग| year      = 2016-17| image     =Friends_Arena_from_inside.jpg| size      = 300px| caption    =यस प्रतियोगिताको फाइनल खेलहुनेरंगशाला| dates     = 28 जुन– 25 अगस्ट 201615 सेप्टेम्बर 2016-24 मे 2017 | num_teams   =48+8 टिम| associations  = 54| champion_other =| count     =}}
+

@@ -1,0 +1,8 @@
+जीवशास्त्र बिज्ञानको एक विधा हो जसमा बनस्पति र जनावर जस्ता जीवहरूको अध्ययन गरिन्छ। यस विधाका बैज्ञानिकहरूलाई जीवशास्त्री भनिन्छ। यस शास्त्रमा जीवहरूको गुण र स्वभाव, जीवहरूको उत्तपति र विकासक्रमका बारेमा अध्ययन गरिन्छ। जीवशास्त्र एक बिशाल विज्ञान हो र यसको सुरुवात धेरै अघिदेखि भएको हो। यसका थुप्रै शैक्षिक हाँगाहरू छन् र तिनमा जीवहरूका बिभिन्न बिषयहरूमा अध्ययन हुन्छ।
+Animalia - Bos primigenius taurus
+Planta - Triticum
+Fungi - Morchella esculenta
+Stramenopila/Chromista - Fucus serratus
+Bacteria - Gemmatimonas aurantiaca 
+Archaea - Halobacteria
+Virus - Gamma phage

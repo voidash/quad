@@ -1,0 +1,9 @@
+इलेक्ट्रोन र अन्य बिद्युतिय आवेशित अणुहरूको प्रवाहलाई नियन्त्रण गरी संचालन हुने विद्युतिय उपकरणहरूको अध्ययन र प्रयोगलाई इलेक्ट्रोनिक्स भनिन्छ। यस्ता उपकरणहरूमा भ्याक्युम, भ्याक्युम ट्युब र सेमाइकन्डक्टरहरू पर्दछन्।
+केही मानिसहरूले त्यस्तो उपकरणले सामान्यतया कसरी काम गर्छ भन्ने कुरा भौतिकशास्त्रमा पनि पढ्दछन्। 
+समस्याको प्रयोगात्मक समाधानको लागि इलेक्ट्रोनिक सर्किटको निर्माण गरिन्छ। यस्तो कार्य इलेक्ट्रिकल, इलेक्ट्रोनिक र कम्प्युटर इन्जिनियरिङ भित्र पर्दछ।
+धेरै जसो इलेक्ट्रोनिक प्रणाली, यी दूई वर्गमा पर्दछन्:
+One way of looking at an electronic system is to divide it into the following parts:
+Take as an example a television. Its input is a broadcast signal received by an antenna or fed in through a cable. Signal processing circuits inside the television extract the brightness, colour र sound information from this signal. The output devices are a cathode ray tube that converts electronic signals into a visible image on a screen, र magnet driven audio speakers.
+
+कम्प्युटर र इलेक्ट्रोनिक घडिहरू डिजिटल सर्किटबाट बनाईन्छ।
+जटिल उपकरणहरू:

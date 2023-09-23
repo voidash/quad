@@ -1,0 +1,2 @@
+Lua error in मोड्युल:Location_map at line 419: No value was provided for longitude.Location in West Bengal, India
+बाँकुडा सदर मह्कुमा भारतीय राज्य पश्चिम बङ्गालको बाँकुडा जिल्ला अन्तर्गतको महकुमा मुख्यालय हो।

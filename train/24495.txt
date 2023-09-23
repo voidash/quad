@@ -1,0 +1,336 @@
+
+
+Hi, 
+After an elaborate community participation process, we are planning to host Wikiconference India 2016 in Chandigarh during August 5, 6 and 7. 
+Please help us by
+We will be calling applications for travel scholarship and paper presentations soon. 
+We look forward to your contribution in making this conference successful. Please sign up to our mailing list and follow the discussion in Meta for updates.
+Thanks.
+--Satdeep Gill 16:35, 7 मे 2016 )WikiConference India 2016 team. 
+As a stakeholder of the Wikimedia India community in India, please express your support and comments regarding the selection of host city, date and other aspects of this conference planning.
+Hi, 
+You are requested to translate this message into your local language.
+WikiConference India 2016 is being organized in Chandigarh during August 5, 6 and 7. 
+Scholarship Applications for WCI2016 are open from now till 31st May 2016.
+You can check this link for more information regarding selection process and criteria.
+You can fill the application form by clicking on this link.
+Thanks.
+--Satdeep Gill 18:33, 11 मे 2016 )
+WikiConference India 2016 team.
+Hello, after six weeks of community discussion about Wikipedia to the Moon, there are now 10 different proposals for content for the mission. Starting today, you can vote for them on Meta-Wiki, and decide what we will work on: a Wikipedia canon, different lists, the Moon in 300 languages, an astronomy editathon, featured articles, articles about technology, endangered things, or DNA-related topics. You can even vote against community involvement. Voting is open until 24 June. Sorry that this message is again in English only, but we are using village pumps to reach as many communities as possible, so that everyone knows they can vote. Best, Moon team at Wikimedia Deutschland 15:31, 10 जुन 2016 )
+Please help translate to your language
+Hello, I wanted to give a heads up about an upcoming feature for this wiki which you may seen already in the Tech News. Compact Language Links has been available as a beta-feature on all Wikimedia wikis since 2014. With compact language links enabled, users are shown a much shorter list of languages on the interlanguage link section of an article . This will be enabled as a feature in the soon for all users, which can be turned on or off using a preference setting. We look forward to your feedback and please do let us know if you have any questions. Details about Compact Language Links can be read in the project documentation.
+Due to the large scale enablement of this feature, we have had to use MassMessage for this announcement and as a result it is only written in English. We will really appreciate if this message can be translated for other users of this wiki. The main announcement can also be translated on this page. Thank you. On behalf of the Wikimedia Language team: Runa Bhattacharjee -13:06, 29 जुन 2016 )
+Please help translate to your language
+Compact Language Links has been available as a beta-feature on all Wikimedia wikis since 2014. With compact language links enabled, users are shown a much shorter list of languages on the interlanguage link section of an article . Based on several factors, this shorter list of languages is expected to be more relevant for them and valuable for finding similar content in a language known to them. More information about compact language links can be found in the documentation.
+From today onwards, compact language links has been enabled as the default listing of interlanguage links on this wiki. However, using the button at the bottom, you will be able to see a longer list of all the languages the article has been written in. The setting for this compact list can be changed by using the checkbox under User Preferences -> Appearance -> Languages
+The compact language links feature has been tested extensively by the Wikimedia Language team, which developed it. However, in case there are any problems or other feedback please let us know on the project talk page. It is to be noted that on some wikis the presence of an existing older gadget that was used for a similar purpose may cause an interference for compact language list. We would like to bring this to the attention of the admins of this wiki. Full details are on this phabricator ticket .
+Due to the large scale enablement of this feature, we have had to use MassMessage for this announcement and as a result it is only written in English. We will really appreciate if this message can be translated for other users of this wiki. Thank you. On behalf of the Wikimedia Language team: Runa Bhattacharjee -03:05, 1 जुलाई 2016 )
+Three weeks ago, you were invited to vote on how to take Wikipedia articles to the Moon. Community voting is over and the winning idea is to send all ‘’featured articles and lists’’ to the Moon. This decision means that, starting today, Wikipedians from all language communities are warmly invited to intensively work on their best articles and lists, and submit them to Wikipedia to the Moon. The central site to coordinate between communities will be Meta-Wiki. You will find an overview and more information there. Hopefully, we will be able to represent as many languages as possible, to show Wikipedia’s diversity. Please feel kindly invited to edit on behalf of your community and tell us about your work on featured content!
+Best, Moon team at Wikimedia Deutschland 14:10, 1 जुलाई 2016 )
+Please help translate to your language:
+The Editing team is planning to change the name of the “सङ्ग्रह गर्ने” button to “पृष्ठ प्रकाशित गर्ने” and “परिवर्तनहरू प्रकाशित गर्ने”. “पृष्ठ प्रकाशित गर्ने” will be used when you create a new page. “परिवर्तनहरू प्रकाशित गर्ने” will be used when you change an existing page. The names will be consistent in all editing environments.
+This change will probably happen during the week of 30 August 2016. The change will be announced in Tech News when it happens.
+If you are fluent in a language other than English, please check the status of translations at translatewiki.net for “पृष्ठ प्रकाशित गर्ने” and “परिवर्तनहरू प्रकाशित गर्ने”.
+The main reason for this change is to avoid confusion for new editors. Repeated user research studies with new editors have shown that some new editors believed that “सङ्ग्रह गर्ने” would save a private copy of a new page in their accounts, rather than permanently publishing their changes on the web. It is important for this part of the user interface to be clear, since it is difficult to remove public information after it is published. We believe that the confusion caused by the “सङ्ग्रह गर्ने” button increases the workload for experienced editors, who have to clean up the information that people unintentionally disclose, and report it to the functionaries and stewards to suppress it. Clarifying what the button does will reduce this problem.
+Beyond that, the goal is to make all the wikis and languages more consistent, and some wikis made this change many years ago. The Legal team at the Wikimedia Foundation supports this change. Making the edit interface easier to understand will make it easier to handle licensing and privacy questions that may arise. 
+Any help pages or other basic documentation about how to edit pages will also need to be updated, on-wiki and elsewhere. On wiki pages, you can use the wikitext codes {{int:Publishpage}} and {{int:Publishchanges}} to display the new labels in the user's preferred language. For the language settings in your account preferences, these wikitext codes produce “पृष्ठ प्रकाशित गर्ने” and “परिवर्तनहरू प्रकाशित गर्ने”.
+Please share this news with community members who teach new editors and with others who may be interested.
+Whatamidoing  18:04, 9 अगस्त 2016 )
+Hello again. Please excuse the English. Please help translate to your language. धन्यवाद!
+As per previous announcements earlier this year, the visual editor will be enabled at this Wikipedia in some days. It allows people to edit articles as if they were using a typical word processor. Here's a quick explanation of what is going to happen: you can find a more detailed one, with pictures, at mediawiki.org. 
+Thank you! Elitre  12:39, 24 अगस्त 2016 )
+Hello Wikimedians! 
+The Wikipedia Library is announcing signups today for free, full-access, accounts to published research as part of our publisher donation program. You can now sign up for new accounts and research materials from:
+Many other partnerships with accounts available are listed on our partners page, including Project MUSE, EBSCO, DeGruyter, Gale and Newspaperarchive.com. 
+Do better research and help expand the use of high quality references across Wikipedia projects: sign up today!--The Wikipedia Library Team 18:39, 30 अगस्त 2016 )
+Hello again. This message is only available in English at this time: Please help translate to your language. धन्यवाद!
+In the wikitext editor, the pencil icon allows you to switch to the visual editor.
+In the visual editor, the ] icon allows you to switch to the wikitext editor. Please note that the button will soon say पृष्ठ प्रकाशित गर्ने or परिवर्तनहरू प्रकाशित गर्ने, due to an unrelated change.
+As some of you have noticed, this Wikipedia now has the visual editor enabled for all registered users. The rollout to logged-out users will likely happen in a week or so. 
+For an explanation of how the editing system now works and how to choose/go back to your favorite setting, please see my previous announcement above. If you wish to change your editing system preferences now, this can be done from this link to your Preferences --> सम्पादन --> Editing mode:. 
+All edits using the visual editor will be tagged with "भिजुअल एडिटर" in recent changes, watchlists, and page histories. To access the User Guide for the visual editor, click on the "" icon in its toolbar. 
+Please let us know if you find any problems. You can report issues directly in Phabricator, the new bug tracking system or on at mw:VisualEditor/Feedback; by all means, feel free to also ping or contact me directly if you prefer. In case of emergency, please contact James Forrester, the product manager, at jforrester@wikimedia.org or on IRC in the #mediawiki-visualeditor channel.
+Happy editing!Respectfully, Elitre 19:01, 30 अगस्त 2016 )
+PS: Are you seeing interface messages that are not in this wiki's language? Please fix this by providing translations here. Translations may be also provided for the user guide. Please contact me if you want guidance in contributing translations!
+Please help translate to your language
+Hello, I wanted to give you a heads up that machine translation support for Nepali is now ready to be extended to Content Translation using Yandex. It is scheduled to be made active on this Wikipedia on September 14, 2016. This service can be used when translating Wikipedia articles into Nepali with Content Translation. To start using this service, please choose ‘’Yandex.Translate’’ from the ‘’Automatic Translation’’ dropdown menu that you see on the sidebar after you start translating an article. Please note, machine translation is available from all the languages that are supported by Yandex.Translate, but Content Translation can still be used in the usual manner for translating from all languages, with or without machine translation support. For more information, we request you to kindly take a look at the details about machine translation services in Content Translation and about Yandex translation services, including a summary of the legal contract. Please note, the translations made using Content Translation are also used to improve machine translation services.
+We look forward to your feedback. You can reach us using the Project Talk page or phabricator ticket. This message could only be written in English and we will really appreciate if it can be translated into Nepali for other users of this Wikipedia. Thank you. On behalf of WMF Language team: --Runa Bhattacharjee  13:49, 8 सेप्टेम्बर 2016 )
+
+Birgit Müller 15:08, 12 सेप्टेम्बर 2016 )
+Please help translate to your language
+Hello, machine translation support for Content Translation has now been extended and enabled for users of Nepali Wikipedia using Yandex. It can be used when translating Wikipedia articles into Nepali with Content Translation. To start using this service, please choose ‘’Yandex.Translate’’ from the ‘’Automatic Translation’’ dropdown menu that you see on the sidebar after you start translating an article. Please note, machine translation is available from all the languages that are supported by Yandex.Translate, but Content Translation can still be used in the usual manner for translating from all languages, with or without machine translation support. 
+Wikimedia Foundation’s Legal team and Yandex had collaborated earlier to work out an agreement that allows the use of Yandex.Translate without compromising Wikipedia’s policy of attribution of rights, privacy of our users and brand representation. Since November 2015, Yandex machine translation has been used for articles translated for Wikipedias in many languages. For more information, we request you to kindly take a look at the details about machine translation services in Content Translation and about Yandex translation services, including a summary of the legal contract. Please note, translations made using Content Translation are also used to improve machine translation services.
+We have tested the service for use on the Nepali Wikipedia, but there could be unknown problems that we are not aware of yet. Please do let us know on our Project Talk page or phabricator if you face any problems using Content Translation. This message is only in English and we will be very grateful if it could be translated into Nepali for other users of this Wikipedia. Thank you. On behalf of WMF Language team: --Runa Bhattacharjee  20:57, 15 सेप्टेम्बर 2016 )
+Please help translate to your language:
+Greetings! The Project Grants program is currently accepting proposals for funding. There is just over a week left to submit before the October 11 deadline. If you have ideas for software, offline outreach, research, online community organizing, or other projects that enhance the work of Wikimedia volunteers, start your proposal today! Please encourage others who have great ideas to apply as well. Support is available if you want help turning your idea into a grant request.
+I JethroBT  20:11, 30 सेप्टेम्बर 2016 )
+Hello! I'm writing from the Wikimedia Foundation to invite you to give your feedback on a proposed move from CC BY-SA 3.0 to a CC BY-SA 4.0 license across all Wikimedia projects. The consultation will run from October 5 to November 8, and we hope to receive a wide range of viewpoints and opinions. Please, if you are interested, take part in the discussion on Meta-Wiki.
+Apologies that this message is only in English. This message can be read and translated in more languages here. Joe Sutherland 01:35, 6 अक्टोबर 2016 )
+Sorry for the delay in delivering this newsletter!
+Read this in another language • Subscription list for this multilingual newsletter
+Select a cell in the column or row that you want to move. Click the arrow at the start of that row or column to open the dropdown menu . Choose either "Move before" or "Move after" to move the column, or "Move above" or "Move below" to move the row.
+You can read and help translate the user guide, which has more information about how to use the visual editor.
+Since the last newsletter, the VisualEditor Team has mainly worked on a new wikitext editor. They have also released some small features and the new map editing tool. Their workboard is available in Phabricator. You can find links to the list of work finished each week at mw:VisualEditor/Weekly triage meetings. Their current priorities are fixing bugs, releasing the 2017 wikitext editor as a beta feature, and improving language support.
+The visual editor will be offered to all editors at the remaining 10 "Phase 6" Wikipedias during the next month. The developers want to know whether typing in your language feels natural in the visual editor. Please post your comments and the language that you tested at the feedback thread on mediawiki.org. This will affect several languages, including Thai, Burmese and Aramaic.
+The team is working on a modern wikitext editor. The 2017 wikitext editor will look like the visual editor and be able to use the citoid service and other modern tools. This new editing system may become available as a Beta Feature on desktop devices in October 2016. You can read about this project in a general status update on the Wikimedia mailing list. 
+—Elitre 21:12, 17 अक्टोबर 2016 )
+Hello Wikimedians! 
+The Wikipedia Library is announcing signups today for free, full-access, accounts to published research as part of our Publisher Donation Program. You can sign up for new accounts and research materials from:
+Expansions
+Many other partnerships with accounts available are listed on our partners page. Sign up today!--The Wikipedia Library Team 18:30, 1 नोभेम्बर 2016 )
+I apologise that this message is in English. ⧼Centralnotice-shared-help-translate⧽
+We are having a problem with attackers taking over wiki accounts with privileged user rights . It appears that this may be because of weak or reused passwords.
+Community members are working along with members of multiple teams at the Wikimedia Foundation to address this issue.
+In the meantime, we ask that everyone takes a look at the passwords they have chosen for their wiki accounts. If you know that you've chosen a weak password, or if you've chosen a password that you are using somewhere else, please change those passwords.
+Select strong passwords – eight or more characters long, and containing letters, numbers, and punctuation. Joe Sutherland / MediaWiki message delivery 00:00, 14 नोभेम्बर 2016 )
+Please accept my apologies - that first line should read "Help with translations!". Joe Sutherland  / MediaWiki message delivery 00:11, 14 नोभेम्बर 2016 )
+Summary: There's a new opt-in Beta Feature of a wikitext mode for the visual editor. Please go try it out.
+We in the Wikimedia Foundation's Editing department are responsible for making editing better for all our editors, new and experienced alike. We've been slowly improving the visual editor based on feedback, user tests, and feature requests. However, that doesn't work for all our user needs: whether you need to edit a wikitext talk page, create a template, or fix some broken reference syntax, sometimes you need to use wikitext, and many experienced editors prefer it.
+Consequently, we've planned a "wikitext mode" for the visual editor for a long time. It provides as much of the visual editor's features as possible, for those times that you need or want wikitext. It has the same user interface as the visual editor, including the same toolbar across the top with the same buttons. It provides access to the citoid service for formatting citations, integrated search options for inserting images, and the ability to add new templates in a simple dialog. Like in the visual editor, if you paste in formatted text copied from another page, then formatting will automatically be converted into wikitext.
+All wikis now have access to this mode as a Beta Feature. When enabled, it replaces your existing wikitext editor everywhere. If you don't like it, you can reverse this at any time by turning off the Beta Feature in your preferences. We don't want to surprise anyone, so it's strictly an opt-in-only Beta Feature. It won't switch on automatically for anyone, even if you have previously checked the box to "सबै नयाँ बेटा सुविधाहरूलाई स्वचालित रूपले सक्षम गर्ने".
+The new wikitext edit mode is based on the visual editor, so it requires JavaScript . It doesn't work with gadgets that have only been designed for the older one, so some users will miss gadgets they find important. We're happy to work with gadget authors to help them update their code to work with both editors. We're not planning to get rid of the current main wikitext editor on desktop in the foreseeable future. We're also not going to remove the existing ability to edit plain wikitext without JavaScript. Finally, though it should go without saying, if you prefer to continue using the current wikitext editor, then you may so do.
+This is an early version, and we'd love to know what you think so we can make it better. Please leave feedback about the new mode on the feedback page. You may write comments in any language. Thank you.
+James Forrester --19:31, 14 डिसेम्बर 2016 )
+Note: Apologies for cross-posting and sending in English. Message is available for translation on Meta-Wiki.
+The Wikimedia movement is beginning a movement-wide strategy discussion, a process which will run throughout 2017. For 15 years, Wikimedians have worked together to build the largest free knowledge resource in human history. During this time, we've grown from a small group of editors to a diverse network of editors, developers, affiliates, readers, donors, and partners. Today, we are more than a group of websites. We are a movement rooted in values and a powerful vision: all knowledge for all people. As a movement, we have an opportunity to decide where we go from here. 
+This movement strategy discussion will focus on the future of our movement: where we want to go together, and what we want to achieve. We hope to design an inclusive process that makes space for everyone: editors, community leaders, affiliates, developers, readers, donors, technology platforms, institutional partners, and people we have yet to reach. There will be multiple ways to participate including on-wiki, in private spaces, and in-person meetings. You are warmly invited to join and make your voice heard.
+The immediate goal is to have a strategic direction by Wikimania 2017 to help frame a discussion on how we work together toward that strategic direction.
+Regular updates are being sent to the Wikimedia-l mailing list, and posted on Meta-Wiki. Beginning with this message, monthly reviews of these updates will be sent to this page as well. Sign up to receive future announcements and monthly highlights of strategy updates on your user talk page.
+Here is a review of the updates that have been sent so far:
+More information about the movement strategy is available on the Meta-Wiki 2017 Wikimedia movement strategy portal.
+Posted by MediaWiki message delivery on behalf of the Wikimedia Foundation, 20:31, 15 फेब्रुअरी 2017 ) • Please help translate to your language • Get help
+Note: Apologies for cross-posting and sending in English. This message is available for translation on Meta-Wiki.
+As we mentioned last month, the Wikimedia movement is beginning a movement-wide strategy discussion, a process which will run throughout 2017. This movement strategy discussion will focus on the future of our movement: where we want to go together, and what we want to achieve.
+Regular updates are being sent to the Wikimedia-l mailing list, and posted on Meta-Wiki. Each month, we are sending overviews of these updates to this page as well. Sign up to receive future announcements and monthly highlights of strategy updates on your user talk page.
+Here is a overview of the updates that have been sent since our message last month:
+More information about the movement strategy is available on the Meta-Wiki 2017 Wikimedia movement strategy portal.
+Posted by MediaWiki message delivery on behalf of the Wikimedia Foundation, 19:44, 9 मार्च 2017 ) • Please help translate to your language • Get help
+Dear Wikimedians/Wikipedians:
+Today we are starting a broad discussion to define Wikimedia's future role in the world and develop a collaborative strategy to fulfill that role. You are warmly invited to join the conversation.
+There are many ways to participate, by joining an existing conversation or starting your own: 
+Track A : Discussions with your affiliate, committee or other organized group . 
+Track B : On Meta or your local language or project wiki.
+This is the first of three conversations, and it will run between now and April 15. The purpose of cycle 1 is to discuss the future of the movement and generate major themes around potential directions. What do we want to build or achieve together over the next 15 years?
+We welcome you, as we create this conversation together, and look forward to broad and diverse participation from all parts of our movement.
+Sincerely,
+ 05:10, 18 मार्च 2017 )
+Please accept our apologies for cross-posting this message. This message is available for translation on Meta-Wiki.
+On behalf of the Wikimedia Foundation Elections Committee, I am pleased to announce that self-nominations are being accepted for the 2017 Wikimedia Foundation Board of Trustees Elections.
+The Board of Trustees is the decision-making body that is ultimately responsible for the long-term sustainability of the Wikimedia Foundation, so we value wide input into its selection. More information about this role can be found on Meta-Wiki. Please read the letter from the Board of Trustees calling for candidates.
+The candidacy submission phase will last from April 7 to April 20 .
+We will also be accepting questions to ask the candidates from April 7 to April 20. You can submit your questions on Meta-Wiki.
+Once the questions submission period has ended on April 20, the Elections Committee will then collate the questions for the candidates to respond to beginning on April 21.
+The goal of this process is to fill the three community-selected seats on the Wikimedia Foundation Board of Trustees. The election results will be used by the Board itself to select its new members.
+The full schedule for the Board elections is as follows. All dates are inclusive, that is, from the beginning of the first day to the end of the last. 
+In addition to the Board elections, we will also soon be holding elections for the following roles:
+Please note that this year the Board of Trustees elections will be held before the FDC and Ombuds elections. Candidates who are not elected to the Board are explicitly permitted and encouraged to submit themselves as candidates to the FDC or Ombuds positions after the results of the Board elections are announced. 
+More information on this year's elections can be found on Meta-Wiki. Any questions related to the election can be posted on the election talk page on Meta-Wiki, or sent to the election committee's mailing list, board-electionswikimedia.org.
+On behalf of the Election Committee,Katie Chan, Chair, Wikimedia Foundation Elections CommitteeJoe Sutherland, Community Advocate, Wikimedia Foundation
+Read this message in another language • Please help translate to your language
+The Wikimedia Foundation will be testing its secondary data center in Dallas. This will make sure that Wikipedia and the other Wikimedia wikis can stay online even after a disaster. To make sure everything is working, the Wikimedia Technology department needs to conduct a planned test. This test will show whether they can reliably switch from one data center to the other. It requires many teams to prepare for the test and to be available to fix any unexpected problems. 
+They will switch all traffic to the secondary data center on Wednesday, 19 April 2017.On Wednesday, 3 May 2017, they will switch back to the primary data center. 
+Unfortunately, because of some limitations in MediaWiki, all editing must stop during those two switches. We apologize for this disruption, and we are working to minimize it in the future. 
+You will be able to read, but not edit, all wikis for a short period of time.
+Other effects:
+This project may be postponed if necessary. You can read the schedule at wikitech.wikimedia.org. Any changes will be announced in the schedule. There will be more notifications about this. Please share this information with your community. /User:Whatamidoing 
+MediaWiki message delivery 17:34, 11 अप्रिल 2017 )
+Wikidata description editing is a new experiment being rolled out on the Wikipedia app for Android. While this primarily impacts Wikidata, the changes are also addressing a concern about the mobile versions of Wikipedia, so that mobile users will be able to edit directly the descriptions shown under the title of the page and in the search results.
+We began by rolling out this feature several weeks ago to a pilot group of Wikipedias, and have seen very positive results including numerous quality contributions in the form of new and updated descriptions, and a low rate of vandalism.
+We are now ready for the next phase of rolling out this feature, which is to enable it in a few days for all Wikipedias except the top ten by usage within the app . We will enable the feature for those languages instead at some point in the future, as we closely monitor user engagement with our expanded set of pilot communities.As always, if have any concerns, please reach out to us on wiki at the talk page for this project or by email at reading@wikimedia.org. Thanks!
+-DBrant 08:41, 14 अप्रिल 2017 )
+New Page previews feature
+Read this message in another language • Please help translate to your language
+Hello,
+The Reading web team at the Wikimedia Foundation has been working to enable Page previews, a beta feature known previously as Hovercards, as opt-in behavior for logged-in users and the default behavior for logged-out users across Wikipedia projects. Page previews provide a preview of any linked article, giving readers a quick understanding of a related article without leaving the current page. For this project, we are expecting to collect feedback over the following few weeks and tentatively enable the feature in early May, 2017.
+A quick note on the implementation:
+You can read more about the feature and the tests we used to evaluate performance, try it out by enabling it from the beta features page, and leave feedback or questions on the talk page. 
+Thank you, MediaWiki message delivery 16:52, 19 अप्रिल 2017 )
+Dear friends,
+In an unfortunate turn of events, Wikipedia is currently blocked in Turkey, as can be seen from en: 2017 block of Wikipedia in Turkey
+In order to express solidarity with the Turkish Wikipedia editors and readers, it is proposed that Indian Wikipedians write articles related to Turkey in their respective languages. Our message is clear — we are not motivated by any politics; we just want the Wikipedia to be unblocked in Turkey. 
+Participating members can create new articles on Turkish language, culture, political structure, religion, sports, etc. But the essential condition is that the articles should be related to Turkey.
+Note: The normal Wikipedia rules also apply to all new articles. Wikipedia admins can facilitate other member contributions by creating project pages where users can list their newly written articles. --Hindustanilanguage 19:26, 30 अप्रिल 2017 )
+Hello Wikimedians! 
+The Wikipedia Library is announcing signups today for free, full-access, accounts to published research as part of our Publisher Donation Program. You can sign up for new accounts and research materials from:
+Expansions
+Many other partnerships with accounts available are listed on our partners page, including Project MUSE, EBSCO, Taylor & Francis and Newspaperarchive.com. 
+Do better research and help expand the use of high quality references across Wikipedia projects: sign up today!--The Wikipedia Library Team 18:52, 2 मे 2017 )
+Voting has begun for eligible voters in the 2017 elections for the Wikimedia Foundation Board of Trustees.
+The Wikimedia Foundation Board of Trustees is the ultimate governing authority of the Wikimedia Foundation, a 501 non-profit organization registered in the United States. The Wikimedia Foundation manages many diverse projects such as Wikipedia and Commons.
+The voting phase lasts from 00:00 UTC May 1 to 23:59 UTC May 14. Click here to vote. More information on the candidates and the elections can be found on the 2017 Board of Trustees election page on Meta-Wiki. 
+On behalf of the Elections Committee,Katie Chan, Chair, Wikimedia Foundation Elections CommitteeJoe Sutherland, Community Advocate, Wikimedia Foundation
+ 19:14, 3 मे 2017 )
+Birgit Müller 14:41, 8 मे 2017 )
+Hello,
+I’m sorry for writing in English. It’d be great if someone could translate this message if necessary.
+One of the most requested features for Wikidata is to enable editing of Wikidata’s data directly from Wikipedia, so the editors can continue their workflow without switching websites.
+The Wikidata development team has been working on a tool to achieve this goal: fill and edit the Wikipedia infoboxes with information from Wikidata, directly on Wikipedia, via the Visual Editor. 
+We already asked for feedback in 2015, and collected some interesting ideas which we shared with you in this thesis. Now we would like to present to you our first prototype and collect your feedback, in order to improve and continue the development of this feature.
+We present this work to you very early, so we can include your feedback before and all along the development. You are the core users of this feature, so we want to make sure that it fits your needs and editing processes.
+You will find the prototype, description of the features, and a demo video, on this page. Feel free to add any comment or feedback on the talk page. The page is currently not translated in every languages, but you can add your contribution by helping to translate it.
+Unfortunately, I won’t be able to follow all the discussions on Wikipedia, so if you want to be sure that your feedback is read, please add it on the Wikidata page, in your favorite language. Thanks for your understanding.
+Thanks, Lea Lacroix 
+Birgit Müller 14:44, 16 मे 2017 )
+The Wikimedia movement strategy core team and working groups have completed reviewing the more than 1800 thematic statements we received from the first discussion. They have identified 5 themes that were consistent across all the conversations - each with their own set of sub-themes. These are not the final themes, just an initial working draft of the core concepts.
+You are invited to join the online and offline discussions taking place on these 5 themes. This round of discussions will take place between now and June 12th. You can discuss as many as you like; we ask you to participate in the ones that are most important to you.
+Here are the five themes, each has a page on Meta-Wiki with more information about the theme and how to participate in that theme's discussion:
+On the movement strategy portal on Meta-Wiki, you can find more information about each of these themes, their discussions, and how to participate.
+ 21:09, 16 मे 2017 )
+On behalf of the Wikimedia Foundation Elections Committee, we are pleased to announce that self-nominations are being accepted for the 2017 Wikimedia Foundation Funds Dissemination Committee and Funds Dissemination Committee Ombudsperson elections. Please read the letter from the Wikimedia Foundation calling for candidates at on the 2017 Wikimedia Foundation elections portal.
+Funds Dissemination CommitteeThe Funds Dissemination Committee makes recommendations about how to allocate Wikimedia movement funds to eligible entities. There are five positions being filled. More information about this role can be found at the FDC elections page.
+Funds Dissemination Committee OmbudspersonThe Funds Dissemination Committee Ombudsperson receives complaints and feedback about the FDC process, investigates complaints at the request of the Board of Trustees, and summarizes the investigations and feedback for the Board of Trustees on an annual basis. One position is being filled. More information about this role can be found at the FDC Ombudsperson elections page. 
+The candidacy submission phase will last until May 28 .
+We will also be accepting questions to ask the candidates until May 28. You can submit your questions on Meta-Wiki. Once the questions submission period has ended on May 28, the Elections Committee will then collate the questions for the candidates to respond to.
+The goal of this process is to fill the five community-selected seats on the Wikimedia Foundation Funds Dissemination Committee and the community-selected ombudsperson. The election results will be used by the Board itself to make the appointments.
+The full schedule for the FDC elections is as follows. All dates are inclusive, that is, from the beginning of the first day to the end of the last.
+More information on this year's elections can be found at the 2017 Wikimedia Foundation elections portal.
+Please feel free to post a note about the election on your project's village pump. Any questions related to the election can be posted on the talk page on Meta-Wiki, or sent to the election committee's mailing list, board-electionswikimedia.org.
+On behalf of the Election Committee,Katie Chan, Chair, Wikimedia Foundation Elections CommitteeJoe Sutherland, Community Advocate, Wikimedia Foundation
+ 21:06, 23 मे 2017 )
+You can see and use the old and new versions now. Most editors will only notice that some buttons are slightly larger and have different colors.
+Buttons before the change
+Buttons after the change
+However, this change also affects some user scripts and gadgets. Unfortunately, some of them may not work well in the new system. If you maintain any user scripts or gadgets that are used for editing, please see mw:Contributors/Projects/Accessible editing buttons for information on how to test and fix your scripts. Outdated scripts can be tested and fixed now.
+Whatamidoing  22:23, 10 जुलाई 2017 )
+Hello,
+A quick update on the progress of enabling Page Previews on this project. Page Previews provide a preview of any linked article, giving readers a quick understanding of a related article without leaving the current page. As mentioned in December we're preparing to remove the feature from Beta and make it the default behavior for logged-out users. We have recently made a large update to the code which fixes most outstanding bugs. 
+Due to some issues with our instrumentation, we delayed our deployment by a few months. We are finally ready to deploy the feature. Page Previews will be off by default and available in the user preferences page for logged-in users the week of July 24th. The feature will be on by default for current beta users and logged-out users. If you would like to preview the feature, you can enable it as a beta feature. For more information see Page Previews. Questions can be left on the talk page in your preferred language. 
+Thank you again.
+CKoerner  22:32, 20 जुलाई 2017 )
+There is currently a RfC open on Meta regarding "requiring those involved with paid editing on Wikipedia to link on their user page to all other active accounts through which they advertise paid Wikipedia editing business." 
+Note this is to apply to Wikipedia and not necessarily other sister projects, this is only to apply to websites where people are specifically advertising that they will edit Wikipedia for pay and not any other personal, professional, or social media accounts a person may have.
+Please comment on meta. Thanks. Send on behalf of User:Doc James.
+MediaWiki message delivery 21:06, 17 सेप्टेम्बर 2017 )
+Discussion on synced reading lists
+Hello,
+To create Reading Lists, app users will register an account and marked pages will be tied to that account. Reading List account preferences sync between devices. You can read the same pages on different mobile platforms . This is the first time we are syncing preference data between devices in such a way. We want to hear and address concerns about privacy and data security. We also want to explain why the current watchlist system is not being adapted for this purpose. 
+In 2016 the Android team replaced the simple Saved Pages feature with Reading Lists. Reading Lists allow users to bookmark pages into folders and for reading offline. The intent of this feature was to allow "syncing" of these lists for users with many devices. Due to overlap with the Gather feature and related community concerns, this part was put on hold. 
+The Android team has identified this lack of synching as a major area of complaint from users. They expect lists to sync. The iOS team has held off implementing Reading Lists, as syncing was seen as a "must have" for this feature. A recent technical RfC has allowed these user stories and needs to be unblocked. Initially for Android, then iOS, and with web to potentially follow.
+Reading lists are private, stored as part of a user's account, not as a public wiki page. There is no sharing or publishing ability for reading lists. No planned work to make these public. The target audience are people that read Wikipedia and want to bookmark and organize that content in the app. There is a potential for the feature to be available on the web in the future.
+Watchlists offer similar functionality to Reading Lists. The Reading Infrastructure team evaluated watchlist infrastructure before exploring other options. In general, the needs of watchlists differ from Reading Lists in a few key ways:
+More information can be found on MediaWiki.org where feedback and ideas are welcome. 
+Thank you
+CKoerner  20:35, 20 सेप्टेम्बर 2017 )
+New print to pdf feature for mobile web readers
+The Readers web team will be deploying a new feature this week to make it easier to download PDF versions of articles on the mobile website.
+Providing better offline functionality was one of the highlighted areas from the research done by the New Readers team in Mexico, Nigeria, and India. The teams created a prototype for mobile PDFs which was evaluated by user research and community feedback. The prototype evaluation received positive feedback and results, so development continued.
+For the initial deployment, the feature will be available to Google Chrome browsers on Android. Support for other mobile browsers to come in the future. For Chrome, the feature will use the native Android print functionality. Users can choose to download a webpage as a PDF. Mobile print styles will be used for these PDFs to ensure optimal readability for smaller screens.
+The feature is available starting Wednesday, Nov 15. For more information, see the project page on MediaWiki.org. 
+धन्यवाद! 
+CKoerner  22:07, 20 नोभेम्बर 2017 )
+Hi all,
+We wanted to inform you that scholarship applications for Wikimania 2018 which is being held in Cape Town, South Africa on July 18–22, 2018 are now being accepted. Applications are open until Monday, 22 January 2018 23:59 UTC.
+Applicants will be able to apply for a partial or full scholarship. A full scholarship will cover the cost of an individual's round-trip travel, shared accommodation, and conference registration fees as arranged by the Wikimedia Foundation. A partial scholarship will cover conference registration fees and shared accommodation. Applicants will be rated using a pre-determined selection process and selection criteria established by the Scholarship Committee and the Wikimedia Foundation, who will determine which applications are successful. To learn more about Wikimania 2018 scholarships, please visit: wm2018:Scholarships.
+To apply for a scholarship, fill out the multi-language application form on: https://scholarships.wikimedia.org/apply
+It is highly recommended that applicants review all the material on the Scholarships page and the associated FAQ before submitting an application. If you have any questions, please contact: wikimania-scholarships at wikimedia.org or leave a message at: wm2018:Talk:Scholarships. Please help us spread the word and translate pages!
+Best regards, David Richfield and Martin Rulsch for the Scholarship Committee 19:24, 20 डिसेम्बर 2017 )
+Greetings, 
+"Military history" is one of the most important subjects when speak of sum of all human knowledge. To support contributors interested in the area over various language Wikipedias, we intend to form a user group. It also provides a platform to share the best practices between military historians, and various military related projects on Wikipedias. An initial discussion was has been done between the coordinators and members of WikiProject Military History on English Wikipedia. Now this discussion has been taken to Meta-Wiki. Contributors intrested in the area of military history are requested to share their feedback and give suggestions at Talk:Discussion to incubate a user group for Wikipedia Military Historians.
+MediaWiki message delivery 10:46, 21 डिसेम्बर 2017 )
+We are working on making an offline distribution system for all Wikipedias of India. Wondering if someone could translate these three sentences into ne? here James Heilman, MD 14:16, 25 डिसेम्बर 2017 )
+Read this in another language • Subscription list for this multilingual newsletter
+Did you know that you can now use the visual diff tool on any page?
+Sometimes, it is hard to see important changes in a wikitext diff. This screenshot of a wikitext diff shows that the paragraphs have been rearranged, but it does not highlight the removal of a word or the addition of a new sentence.
+If you enable the Beta Feature for "Visual differences", you will have a new option. It will give you a new box at the top of every diff page. This box will let you choose either diff system on any edit.
+Click the toggle button to switch between visual and wikitext diffs.
+In the visual diff, additions, removals, new links, and formatting changes will be highlighted. Other changes, such as changing the size of an image, are described in notes on the side.
+This screenshot shows the same edit as the wikitext diff. The visual diff highlights the removal of one word and the addition of a new sentence.
+You can read and help translate the user guide, which has more information about how to use the visual editor.
+Since the last newsletter, the Editing Team has spent most of their time supporting the 2017 wikitext editor mode, which is available inside the visual editor as a Beta Feature, and improving the visual diff tool. Their work board is available in Phabricator. You can find links to the work finished each week at mw:VisualEditor/Weekly triage meetings. Their current priorities are fixing bugs, supporting the 2017 wikitext editor, and improving the visual diff tool.
+—Elitre 
+ 20:56, 2 मार्च 2018 )
+Birgit Müller 14:53, 7 मे 2018 )
+Hello Wikimedians! 
+The Wikipedia Library is announcing signups today for free, full-access, accounts to research and tools as part of our Publisher Donation Program. You can sign up for new accounts and research materials on the Library Card platform: 
+Expansions
+Many other partnerships with accounts available are listed on our partners page, including Baylor University Press, Loeb Classical Library, Cairn, Gale and Bloomsbury.
+Do better research and help expand the use of high quality references across Wikipedia projects: sign up today!--The Wikipedia Library Team 18:03, 30 मे 2018 )
+वैश्विक अभिरूचीहरू अब उपलब्ध छन्, तपाईँले नयाँ वैश्विक अभिरूची पृष्ठ मा गएर त्यसको निर्धारण गर्नुहोस् ।थप जानकारी र उपयोग जानकारीको लागि mediawiki.org भ्रमण गर्नुहोस् र सुझाव दिनुहोस् । -- Keegan 
+ 19:19, 10 जुलाई 2018 )
+
+Hi all!
+To improve the security of our readers and editors, permission handling for CSS/JS pages has changed. A new user group, interface-admin, has been created.Starting four weeks from now, only members of this group will be able edit CSS/JS pages that they do not own .
+You can learn more about the motivation behind the change here.
+Please add users who need to edit CSS/JS to the new group .This is a dangerous permission; a malicious user or a hacker taking over the account of a careless interface-admin can abuse it in far worse ways than admin permissions could be abused. Please only assign it to users who need it, who are trusted by the community, and who follow common basic password and computer security practices .
+Thanks!Tgr 17:44, 30 जुलाई 2018 ) 
+
+Hi all,
+as announced previously, permission handling for CSS/JS pages has changed: only members of the interface-admin group, and a few highly privileged global groups such as stewards, can edit CSS/JS pages that they do not own . This is done to improve the security of readers and editors of Wikimedia projects. More information is available at Creation of separate user group for editing sitewide CSS/JS. If you encounter any unexpected problems, please contact me or file a bug.
+Thanks!Tgr 12:40, 27 अगस्त 2018 ) 
+Read this message in another language • Please help translate to your language
+The Wikimedia Foundation will be testing its secondary data centre. This will make sure that Wikipedia and the other Wikimedia wikis can stay online even after a disaster. To make sure everything is working, the Wikimedia Technology department needs to do a planned test. This test will show if they can reliably switch from one data centre to the other. It requires many teams to prepare for the test and to be available to fix any unexpected problems. 
+They will switch all traffic to the secondary data center on Wednesday, 12 September 2018.On Wednesday, 10 October 2018, they will switch back to the primary data center. 
+Unfortunately, because of some limitations in MediaWiki, all editing must stop when we switch. We apologize for this disruption, and we are working to minimize it in the future. 
+You will be able to read, but not edit, all wikis for a short period of time.
+Other effects:
+This project may be postponed if necessary. You can read the schedule at wikitech.wikimedia.org. Any changes will be announced in the schedule. There will be more notifications about this. Please share this information with your community. /User:Johan 
+ 13:33, 6 सेप्टेम्बर 2018 )
+Hi there, Sorry for writing this in English.
+We wanted to inform you that Call for Participation for Wikicamp Nepal 2018, which is being held in Lahan, Nepal on November 21–23, 2018 are now being accepted. Call for Participation are open until 30 September 2018, 23:59:59. To learn more about Wikicamp Nepal 2018 Call for Participation, Please visit: m:Wikicamp Nepal 2018/Call for Participation.
+To submit for call for participation, please do that this way.
+It is highly recommended that presenters review all the material on the Call for Participation page and the associated FAQ before submission. If you have any questions, please contact: wikicampnepal at gmail.com or leave a message at: m:Talk:Wikicamp Nepal 2018/Call for Participation. Please help us spread the word and translate pages, also requested to local sysop to create a Sitenotice about it !
+Best regards, Tulsi Bhagat on the behalf of organizing team of Wikicamp Nepal 2018. --MediaWiki message delivery 16:31, 8 सेप्टेम्बर 2018 )
+The Community Wishlist Survey. Please help translate to your language.
+Hey everyone,
+The Community Wishlist Survey is the process when the Wikimedia communities decide what the Wikimedia Foundation Community Tech should work on over the next year.
+The Community Tech team is focused on tools for experienced Wikimedia editors. You can post technical proposals from now until 11 November. The communities will vote on the proposals between 16 November and 30 November. You can read more on the wishlist survey page. 
+ 11:06, 30 अक्टोबर 2018 )
+Read this in another language • Subscription list for this multilingual newsletter
+Did you know? 
+Did you know that you can use the visual editor on a mobile device?
+Tap on the pencil icon to start editing. The page will probably open in the wikitext editor.
+You will see another pencil icon in the toolbar. Tap on that pencil icon to the switch between visual editing and wikitext editing.
+Remember to publish your changes when you're done.
+Since the last newsletter, the Editing Team has wrapped up most of their work on the 2017 wikitext editor and the visual diff tool. The team has begun investigating the needs of editors who use mobile devices. Their work board is available in Phabricator. Their current priorities are fixing bugs and improving mobile editing.  
+—Whatamidoing 
+ 14:17, 2 नोभेम्बर 2018 )
+Change coming to how certain templates will appear on the mobile web
+Please help translate to your language
+Hello,
+In a few weeks the Readers web team will be changing how some templates look on the mobile web site. We will make these templates more noticeable when viewing the article. We ask for your help in updating any templates that don't look correct.
+What kind of templates? Specifically templates that notify readers and contributors about issues with the content of an article – the text and information in the article. Examples like Template:Unreferenced or Template:More citations needed. Right now these notifications are hidden behind a link under the title of an article. We will format templates like these to show a short summary under the page title. You can tap on the "Learn more" link to get more information.
+For template editors we have some recommendations on how to make templates that are mobile-friendly and also further documentation on our work so far.
+If you have questions about formatting templates for mobile, please leave a note on the project talk page or file a task in Phabricator and we will help you.
+धन्यवाद!
+CKoerner  19:35, 13 नोभेम्बर 2018 )
+The Community Wishlist Survey. Please help translate to your language.
+Hey everyone,
+The Community Wishlist Survey is the process when the Wikimedia communities decide what the Wikimedia Foundation Community Tech should work on over the next year.
+The Community Tech team is focused on tools for experienced Wikimedia editors. The communities have now posted a long list of technical proposals. You can vote on the proposals from now until 30 November. You can read more on the wishlist survey page. 
+ 18:13, 22 नोभेम्बर 2018 )
+Johanna Strodt  11:03, 26 नोभेम्बर 2018 )
+Please help translate to your language
+The Wikimedia Foundation security team is implementing a new password policy and requirements. You can learn more about the project on MediaWiki.org.
+These new requirements will apply to new accounts and privileged accounts. New accounts will be required to create a password with a minimum length of 8 characters. Privileged accounts will be prompted to update their password to one that is at least 10 characters in length.
+These changes are planned to be in effect on December 13th. If you think your work or tools will be affected by this change, please let us know on the talk page.
+धन्यवाद!
+CKoerner  20:03, 6 डिसेम्बर 2018 )
+Please help translate to your language
+Love is an important subject for humanity and it is expressed in different cultures and regions in different ways across the world through different gestures, ceremonies, festivals and to document expression of this rich and beautiful emotion, we need your help so we can share and spread the depth of cultures that each region has, the best of how people of that region, celebrate love. 
+Wiki Loves Love is an international photography competition of Wikimedia Commons with the subject love testimonials happening in the month of February.
+The primary goal of the competition is to document love testimonials through human cultural diversity such as monuments, ceremonies, snapshot of tender gesture, and miscellaneous objects used as symbol of love; to illustrate articles in the worldwide free encyclopedia Wikipedia, and other Wikimedia Foundation projects. 
+The theme of 2019 iteration is Celebrations, Festivals, Ceremonies and rituals of love.
+Sign up your affiliate or individually at Participants page.
+To know more about the contest, check out our Commons Page and FAQs
+There are several prizes to grab. Hope to see you spreading love this February with Wiki Loves Love!
+Kind regards,
+Wiki Loves Love Team
+Imagine... the sum of all love!
+--MediaWiki message delivery 10:13, 27 डिसेम्बर 2018 )
+A new beta feature will soon be released on all wikis: The FileExporter. It allows exports of files from a local wiki to Wikimedia Commons, including their file history and page history. Which files can be exported is defined by each wiki's community: Please check your wiki's configuration file if you want to use this feature.
+The FileExporter has already been a beta feature on mediawiki.org, meta.wikimedia, deWP, faWP, arWP, koWP and on wikisource.org. After some functionality was added, it's now becoming a beta feature on all wikis. Deployment is planned for January 16. More information can be found on the project page. 
+As always, feedback is highly appreciated. If you want to test the FileExporter, please activate it in your user preferences. The best place for feedback is the central talk page. Thank you from Wikimedia Deutschland's Technical Wishes project.
+Johanna Strodt 09:41, 14 जनवरी 2019 )
+18:49, 16 जनवरी 2019 )
+The Wikimedia Foundation is planning a global consultation about communication. The goal is to bring Wikimedians and wiki-minded people together to improve tools for communication.
+We want all contributors to be able to talk to each other on the wikis, whatever their experience, their skills or their devices.
+We are looking for input from as many different parts of the Wikimedia community as possible. It will come from multiple projects, in multiple languages, and with multiple perspectives.
+We are currently planning the consultation. We need your help.
+We need volunteers to help talk to their communities or user groups.
+You can help by hosting a discussion at your wiki. Here's what to do: 
+You can also help build the list of the many different ways people talk to each other.
+Not all groups active on wikis or around wikis use the same way to discuss things: it can happen on wiki, on social networks, through external tools... Tell us how your group communicates.
+You can read more about the overall process on mediawiki.org. If you have questions or ideas, you can leave feedback about the consultation process in the language you prefer.
+Thank you! We're looking forward to talking with you.
+Trizek 15:01, 21 फेब्रुअरी 2019 )

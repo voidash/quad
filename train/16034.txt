@@ -1,0 +1,2 @@
+यदि फलनहरू   f : A  {\displaystyle f:A} →  B  {\displaystyle B} र   g : B  {\displaystyle g:B} →  C  {\displaystyle C} भए Aबाट C मा परिभाषित गरिएको फलनलाई f र g को संयुक्त फलन भनिन्छ यसलाई gof ले जानिन्छ
+→

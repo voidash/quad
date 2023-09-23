@@ -1,0 +1,2 @@
+Lua error in मोड्युल:Location_map at line 502: Unable to find the specified location map definition. Neither "Module:Location map/data/Venezuela" nor "Template:Location map Venezuela" exists.Location in Venezuela and South America
+काराकस भेनेजुएलाको राजधानी हो ।

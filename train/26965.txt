@@ -1,0 +1,2 @@
+{{Infobox football match| title       = 1999 UEFA Super Cup| image       = | team1       = Manchester United F.C.| team1association  = | team1score     = 0| team2       = S.S. Lazio| team2association  = | team2score     = 1| details      = | date        = 27 August 1999| stadium      = Stade Louis II| city        = Monaco| man_of_the_match1a = Juan Sebastián Verón | referee      = Ryszard Wójcik | attendance     = 14,461| weather      = | previous      = | next        = 2000
+}}

@@ -1,0 +1,3 @@
+Lua error in मोड्युल:Location_map at line 419: No value was provided for longitude.नेपालमा रहेको बगही, बारा
+बगही, बारा बारा जिल्लामा अवस्थित एक गाउँ विकास समिति हो।
+

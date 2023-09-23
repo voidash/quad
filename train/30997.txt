@@ -1,0 +1,16 @@
+Nephrology is the branch of internal medicine dealing with the study of the function र diseases of the kidney. The word nephrology is derived from the Greek word nephros, which means "kidney", र the suffix -ology, or "study of".
+Most diseases affecting the kidney are not limited to the organ itself, but are systemic disorders. Nephrology concerns itself with the diagnosis of kidney disease र its treatment, र follow-up of renal transplant patients. Additionally, most nephrologists consider themselves to be expert in the care of electrolyte disorders र hypertension. Given that most renal conditions are chronic, nephrologists "grow with their patients".
+Patients are referred to nephrology specialists for various different reasons, such as :
+Urologists are surgical specialists of the urinary tract. They are involved in renal diseases that might be amenable to surgery:
+As with the rest of medicine, important clues as to the cause of any symptom are gained in the history र physical examination.
+Laboratory tests are almost always aimed at: urea, creatinine, electrolytes, र urinalysis-- which is frequently the key test in suggesting a diagnosis. 
+More specialized tests can be ordered to discover or link certain systemic diseases to kidney failure such as hepatitis b or hepatitis c, lupus serologies, paraproteinemias such as amyloidosis or multiple myeloma or various other systemic diseases that lead to kidney failure. Collection of a 24-hour sample of urine can give valuable information on the filtering capacity of the kidney र the amount of protein loss in some forms of kidney disease. However, 24-hour urine samples have recently, in the setting of chronic renal disease, been replaced by spot urine ratio of protein र creatinine. 
+Other tests often performed by nephrologists are:
+Many kidney diseases are treated with medication, such as steroids, DMARDs, antihypertensives . Often erythropoietin र vitamin D treatment is required to replace these two hormones, the production of which stagnates in chronic renal disease.
+When symptoms of renal failure become too severe, dialysis might be required. Please refer to dialysis for a comprehensive account of this treatment.
+If patients proceed to renal transplant, nephrologist often monitor the immunosuppressive regimen र the infections that can occur at this stage.
+M: URI
+anat/phys/devp/cell
+noco/acba/cong/tumr, sysi/epon, urte
+proc/itvp, drug, blte, urte
+

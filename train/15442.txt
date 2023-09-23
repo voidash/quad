@@ -1,0 +1,1 @@
+एउटा सरल रेखाखण्ड AB मा अर्को बिन्दुबाट खिचिएको रेखाखण्ड CD ले बनाएको आसन्न कोणहरु   x 0   {\displaystyle x^{0}} र   y 0   {\displaystyle y^{0}} हुन् ।   x 0   {\displaystyle x^{0}} +   y 0   {\displaystyle y^{0}} =   180 0   {\displaystyle 180^{0}} हुन्छ ।
