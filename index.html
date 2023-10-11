@@ -18,6 +18,20 @@
             margin: 10px;
         }
 
+        .answer_sets {
+         display: none;
+        }
+        .question_sets {
+         display: none;
+        }
+        .answer_pos {
+         display: none;
+        }
+        /* .rand_number { */
+        /*   display:none; */
+        /* } */
+
+
     </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -29,20 +43,38 @@
     <div>
         Generate question as much as possible from the article
     </div> 
+
+    <div class="rand_number">
+    </div>
+
     <div class="main_article">
     </div>
 
+    <div class="answer_sets">
+    </div>
+
+    <div class="question_sets">
+    </div>
+
+    <div class="answer_pos">
+    </div>
+
 <button class="add_question">Add question</button>
-<button class="add_question">Submit</button>
+<button class="submit">Submit</button>
 </body>
 
 <script type="module">
+            let globalSelectedText = "";
+            let globalAnswerStart = 0;
+            let globalAnswerStop = 0;
+            let question_area = "";
 
-            let article = await fetch(`./train/${Math.floor(Math.random() * 34000)}.txt`).then(val => val.text()); 
+            let rand_value = Math.floor(Math.random() * 34000);
+            document.querySelector('.rand_number').innerHTML = rand_value;
+
+            let article = await fetch(`./train/${rand_value}.txt`).then(val => val.text()); 
             console.log(article);
 
-            let questions = [];
-            let answers = [];
             document.querySelector(".main_article").innerHTML = article;
 
             // adding question 
@@ -78,13 +110,17 @@
             document.querySelector("#selectButton_${counter}").addEventListener('click', () => {
                     console.log(globalSelectedText);
                     highlight_${counter}(globalSelectedText);
+                    let answers = document.querySelector('.answer_sets');
+                    let questions = document.querySelector('.question_sets');
+                    let answer_pos = document.querySelector('.answer_pos');
+                    
+                    answers.innerHTML += globalSelectedText + "; ";
+                    answer_pos.innerHTML += "[" + globalAnswerStart + "," + globalAnswerStop + "] ;";
+                    questions.innerHTML += question_area.value + ";";
             });
 
-            let globalSelectedText = "";
-            let globalAnswerStart = 0;
-            let globalAnswerStop = 0;
+
             document.querySelector(".article_${counter}").addEventListener("selectstart", () => {
-                console.log("test");
                 document.addEventListener('selectionchange', () => {
                 if (window.getSelection) {
                         let selectedTextObject = window.getSelection();
@@ -93,13 +129,15 @@
                         globalAnswerStop = selectedTextObject.focusOffset;
 
                         let selectedText = selectedTextObject.anchorNode.wholeText.substring(selectedTextObject.anchorOffset,selectedTextObject.focusOffset); 
+                        globalAnswerStart = selectedTextObject.anchorOffset;
+                        globalAnswerStop = selectedTextObject.focusOffset;
                         globalSelectedText = selectedText;
                         }
                     }
                 });
             });
 
-            let question_area = document.querySelector('.question_area_${counter}');
+            question_area = document.querySelector('.question_area_${counter}');
             question_area.addEventListener('keydown', function(event) {
             if (event.key === ' ' || event.keyCode === 32) {
                 let enteredValueArray = question_area.value.split(" ");
@@ -191,15 +229,28 @@
 
   function writeData()  {
     const db = getDatabase();
-    const reference = ref(db, 'content/1');
+              const reference = ref(db, `content/${document.querySelector('.rand_number').innerHTML}`);
+    let questions = document.querySelector('.question_sets').innerHTML.split(";");
+    let answers = document.querySelector('.answer_sets').innerHTML.split(";");
+    let answer_positions = document.querySelector('.answer_pos').innerHTML.split(";");
+
+    let article = document.querySelector('.main_article');
+
+    console.log('answer is');
+    console.log(questions);
+    console.log(answers);
+    console.log(answer_positions);
+
     set(reference, {
-        article : "hello from the other side",
-        question: ["one", "two", "three"],
-        answer: ["none", "is", "correct"]
+        article : article.innerHTML,
+        question: questions,
+        answer: answers, 
+        answer_positions: answer_positions
     });
   }
-
-  console.log(globalAnswerStart);
+            document.querySelector('.submit').addEventListener('click', () => {
+              writeData();
+            });
 
 </script>
 </html>
